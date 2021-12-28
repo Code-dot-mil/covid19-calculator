@@ -1,5 +1,5 @@
 {
-  "name": "@code-dot-mil/covid19-calculator",
+  "name": "@deptofdefense/covid19-calculator",
   "author": {
     "name": "DDS",
     "url": "https://dds.mil/"
@@ -19,7 +19,7 @@
     "DDS",
     "Defense Digital Service"
   ],
-  "version": "1.4.0",
+  "version": "1.4.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
