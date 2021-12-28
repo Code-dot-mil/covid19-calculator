@@ -1,16 +1,16 @@
 {
-  "name": "@deptofdefense/covid19-calculator",
+  "name": "@code-dot-mil/covid19-calculator",
   "author": {
     "name": "DDS",
     "url": "https://dds.mil/"
   },
-  "homepage": "https://github.com/deptofdefense/covid19-calculator",
+  "homepage": "https://github.com/Code-dot-mil/covid19-calculator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deptofdefense/covid19-calculator"
+    "url": "https://github.com/Code-dot-mil/covid19-calculator"
   },
   "bugs": {
-    "url": "https://github.com/deptofdefense/covid19-calculator/issues"
+    "url": "https://github.com/Code-dot-mil/covid19-calculator/issues"
   },
   "keywords": [
     "COVID-19",
